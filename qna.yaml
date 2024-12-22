@@ -1,0 +1,28 @@
+version: 3
+domain: religion
+created_by: crownedfish
+seed_examples:
+  - context: |
+      First of all, what exactly is death? Death is separation, a dividing of things that ought to be united. Fundamentally, it is separation from God. Paul suggests as much in Ephesians 2:1–2, “You were dead in the trespasses and sins in which you once walked.” To walk in sin is to be dead, to be enslaved to dark powers, to be separated from God, to be children of his wrath. This type of separation is an estrangement, a hostility, an alienation from the life and hope of the living God. In this sense, all of us, by nature, are born dead, and it is this death that Jesus endured in his suffering on the cross.          But of course, death is more than just separation from God. Death also marks the separation of the soul from the body. God made human beings to be embodied souls and ensouled bodies, and death rips this union asunder. But what happens to these two parts after they’re separated? Psalm 16:10 gives us a window into the biblical teaching.
+      You will not abandon my soul to Sheol,                                                                           or let your holy one see corruption.
+      “God made human beings to be embodied souls and ensouled bodies. Death rips this union asunder.”       This passage directs us to the normal account of what happened when a human being died prior to the death and resurrection of Jesus. The soul was abandoned “to Sheol,” and the body saw corruption or decayed.
+      In Acts 2:29–31, Peter tells us that David, in writing this psalm, foresaw the resurrection of Christ, “that he was not abandoned to Hades [that is, his soul wasn’t], nor did his flesh see corruption” (notice that Peter reads the second line as a reference to Jesus’s body or flesh). Thus, prior to Jesus, at death, souls normally went to Sheol (or Hades), and bodies (flesh) decayed. We’re all familiar with the latter, but the former is more opaque. A quick Bible study will show us why Peter thinks that David’s prophecy in Psalm 16 is such good news.
+    questions_and_answers:
+      - question: | 
+          What is death?
+        answer: |
+          Death is separation, a dividing of things that ought to be united. Fundamentally, it is separation from God.
+      - question: |
+          What happens to these two parts after they’re separated?
+        answer: |
+          “God made human beings to be embodied souls and ensouled bodies. Death rips this union asunder.”
+      - question: |
+          What did Peter have to say about David's understanding of death?
+        answer: |
+           Peter tells us that David, in writing this psalm, foresaw the resurrection of Christ, “that he was not abandoned to Hades [that is, his soul wasn’t], nor did his flesh see corruption” (notice that Peter reads the second line as a reference to Jesus’s body or flesh).
+document_outline: |
+  Explanation of whether Jesus descended into hell
+document:
+  repo:
+  commit: 
+  patterns:
